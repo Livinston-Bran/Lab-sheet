@@ -1,6 +1,6 @@
 # ATI Website - Lecturer Portal
 
-This repository contains the code for the lecturer portal of the ATI (Assumption of Technology and Innovation) website. The portal allows lecturers to register, log in, view a personalized dashboard, and log out. The system is built using PHP and MySQL DBMS for efficient data management.
+This repository contains the code for the lecturer portal of the ATI (Advanced Technological Institute) website. The portal allows lecturers to register, log in, view a personalized dashboard, and log out. The system is built using PHP and MySQL DBMS for efficient data management.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
